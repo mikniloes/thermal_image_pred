@@ -12,4 +12,8 @@
 * 범주형 데이터 one-hot 인코딩
 * 결측/중복 제거
 * scikitlearn의 random forest regressor로 학습
+* feature 중요도 
+
+![image](https://user-images.githubusercontent.com/84064361/120270921-4cfed300-c2e5-11eb-8c80-0f4239014a2f.png)
+
 
