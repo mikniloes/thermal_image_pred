@@ -4,7 +4,12 @@
 
 #### 1. json 데이터 전처리
 * nested json 파일을 데이터프레임(csv) 형식으로 변형
-* unicode 포함 데이터 디코딩 
+```
+from pandas.io.json import json_normalize
+
+pandas.io.json.json_normalize(data, record_path=None, meta=None,...)
+```
+* unicode 포함 문자열 데이터 디코딩 
 
 ![image](https://user-images.githubusercontent.com/84064361/120269912-a534d580-c2e3-11eb-8696-96aadaed091b.png)
 
