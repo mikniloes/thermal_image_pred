@@ -11,7 +11,7 @@ pandas.io.json.json_normalize(data, record_path=None, meta=None,...)
 ```
 * unicode 포함 문자열 데이터 디코딩 
 
-![image](https://user-images.githubusercontent.com/84064361/120269912-a534d580-c2e3-11eb-8696-96aadaed091b.png)
+![image](https://user-images.githubusercontent.com/84064361/120274036-3f981780-c2ea-11eb-91df-84d00d56b5ce.png)
 
 #### 2. scikitlearn random forest 회귀 모델을 사용한 예측
 * 범주형 데이터 one-hot 인코딩
