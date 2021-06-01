@@ -18,6 +18,10 @@ pandas.io.json.json_normalize(data, record_path=None, meta=None,...)
 * 결측/중복 제거
 * scikitlearn의 random forest regressor로 학습
 * 모델의 feature 중요도 확인
+```
+featureImportance = model.feature_importances_
+```
+
 ![image](https://user-images.githubusercontent.com/84064361/120270921-4cfed300-c2e5-11eb-8c80-0f4239014a2f.png)
 
 
